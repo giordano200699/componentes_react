@@ -5,10 +5,10 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path='/' element={
+        <Route path='/componentes_react' element={
           <h1>ESTAS EN HOME</h1>
         } />
-        <Route path='/prueba' element={
+        <Route path='/componentes_react/prueba' element={
           <h1>ESTAS EN PRUEBA</h1>
         } />
       </Routes>
